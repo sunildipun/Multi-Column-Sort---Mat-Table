@@ -67,7 +67,7 @@ export class TableOverviewExample implements OnInit {
       });
     });
 
-    console.log(this.dataSource)
+    // console.log(this.dataSource)
 
 
     // this.sort.sort(({ id: 'id', start: 'desc', disableClear: false}) as MatSortable);
